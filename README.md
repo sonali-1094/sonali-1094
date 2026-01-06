@@ -1,77 +1,90 @@
-<h1 align="center">Hi 👋, I'm Sonali</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sonali Patil</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Backend-Focused</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonali-1094&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-- 👩‍💻 Full Stack Developer (MERN Stack)
-- 🌱 Currently focusing on **Backend Development** & real-world projects
-- 🎯 Love building scalable, meaningful applications
-- 🔍 Actively seeking **job & internship opportunities**
-- 💬 Ask me about **Frontend Development & DSA**
-- 📫 Email: **sonalirpatil361@gmail.com**
-
----
-
-## 🤝 Connect with Me
-
-<p align="left">
   <a href="https://linkedin.com/in/sonali-patil-190257288" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/sonali___1094" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  <a href="mailto:sonalirpatil361@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 👩‍💻 About Me
 
-### 🌐 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" />
-</p>
+I am a **Full Stack Developer** with a strong focus on **backend development** and building real-world, scalable web applications.
 
-### 🧰 Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />
-</p>
+- 💻 Skilled in **MERN Stack (MongoDB, Express, React, Node.js)**
+- 🧠 Strong foundation in **JavaScript, REST APIs, and system logic**
+- 🌱 Currently improving **backend architecture & API design**
+- 🎯 Actively looking for **internship / entry-level developer roles**
+- 💬 Comfortable discussing **Frontend, Backend & DSA fundamentals**
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-</p>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Next.js
+- Tailwind CSS, Responsive UI
+
+### Backend
+- Node.js, Express.js
+- REST APIs, MVC Architecture
+- Authentication & Authorization
+- MongoDB, MySQL
+
+### Tools & Others
+- Git & GitHub
+- Postman
+- Linux basics
+- Python, C, C++
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Code Review System
+**Tech:** Node.js, Express, Google Generative AI  
+- Built an AI-powered API to analyze and review code
+- Clean REST endpoints with proper error handling
+- Environment-based configuration using dotenv
+
+🔗 Repository: *(add link once ready)*
+
+---
+
+### 🔹 Full Stack Healthcare / Mental Health Platform
+**Tech:** React, Node.js, MongoDB  
+- Appointment booking system
+- Mental health support features
+- Modular and scalable architecture
+
+🔗 Repository: *(add link once ready)*
 
 ---
 
 ## 📊 GitHub Stats
 
-### 🔹 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonali-1094&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonali-1094&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali-1094&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
-### 🔹 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonali-1094&show_icons=true&theme=tokyonight)
-
-### 🔹 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=sonali-1094&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonali-1094&theme=tokyonight"/>
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to connect or explore my repositories.*
+## 📫 Contact
+
+- 📧 Email: **sonalirpatil361@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/sonali-patil-190257288](https://linkedin.com/in/sonali-patil-190257288)
+
+---
+
+⭐ *I value clean code, continuous learning, and real-world problem solving.*
